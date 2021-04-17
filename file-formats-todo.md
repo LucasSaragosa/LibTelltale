@@ -3,8 +3,8 @@
 - Input Mappers (.imap) - DONE
 - Agent Mappers (.amap) - DONE
 - Actor Agent Mappers (.aam) - DONE
-- Telltale Meshes (.d3dmesh)
-- Telltale Textures (.d3dtx) - CURRENT
+- Telltale Meshes (.d3dmesh) - CURRENT
+- Telltale Textures (.d3dtx) - DONE
 - Telltale Archives (.ttarch, .ttarch2) - DONE
 - Serialized Version Information (Meta) (.vers) - DONE
 - Dialogs (.dlog, .dlg)
